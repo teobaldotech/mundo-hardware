@@ -8,5 +8,8 @@ exemplos:mouse, teclado, microfone, joystick e scanner.
 
 -dispositivo de saida 
 são dispositivos que exibem dados e informações processadas pelo computador.
-exemplo:  monitor (tela), impressora e caixas de som.
+exemplo:monitor (tela), impressora e caixas de som.
 
+-dispositivo misto
+são aqueles que que podemos tanto inserir informações para dentro do computador quanto para visualizar ou extrair dados.
+exemplo:pen drive, disco de DVD e cartão de memória.  
