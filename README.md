@@ -13,3 +13,7 @@ exemplo:monitor (tela), impressora e caixas de som.
 -dispositivo misto
 são aqueles que que podemos tanto inserir informações para dentro do computador quanto para visualizar ou extrair dados.
 exemplo:pen drive, disco de DVD e cartão de memória.  
+
+-dispositivo de armazenamento
+São hardware que podem ser utilizados para guardar dados e ver depois.
+exemplo:Disco Rígido e disquete, CD e DVD e BLU-RAY,SSDs.
