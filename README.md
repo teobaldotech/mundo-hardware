@@ -1,9 +1,9 @@
 #
-<title>mundo-hardware</title>
+<title><h1>mundo-hardware</h1></title>
 
-<p>tipos de hardware<p/>
+<h2>tipos de hardware</h2>
 
-<h1>dispositivo de entrada</h1> 
+<h2>dispositivo de entrada</h2> 
 sao aquleles que permitem a antrada de dados no computador.
 exemplos:mouse, teclado, microfone, joystick e scanner.
 
@@ -19,6 +19,6 @@ exemplo:pen drive, disco de DVD e cartão de memória.
 São hardware que podem ser utilizados para guardar dados e ver depois.
 exemplo:Disco Rígido e disquete, CD e DVD e BLU-RAY,SSDs.
 
-<p>processador</p>
--É um microchip capaz de endereçar, resolver e preparar dados.
--todo processador tem um sistema de controle de temperatura que permite o resfriamento do ambiente no computador.
+<h2>processador</h2>
+É um microchip capaz de endereçar, resolver e preparar dados.
+todo processador tem um sistema de controle de temperatura que permite o resfriamento do ambiente no computador.
