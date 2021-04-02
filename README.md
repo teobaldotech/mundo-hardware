@@ -11,11 +11,11 @@ exemplos:mouse, teclado, microfone, joystick e scanner.
 são dispositivos que exibem dados e informações processadas pelo computador.
 exemplo:monitor (tela), impressora e caixas de som.
 
-<h3>dispositivo misto</h3>
+<h2>dispositivo misto</h2>
 são aqueles que que podemos tanto inserir informações para dentro do computador quanto para visualizar ou extrair dados.
 exemplo:pen drive, disco de DVD e cartão de memória.  
 
-<h4>dispositivo de armazenamento</h4>
+<h2>dispositivo de armazenamento</h2>
 São hardware que podem ser utilizados para guardar dados e ver depois.
 exemplo:Disco Rígido e disquete, CD e DVD e BLU-RAY,SSDs.
 
