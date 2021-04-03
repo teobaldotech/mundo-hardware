@@ -1,4 +1,6 @@
 #
+
+<img src="https://cdn.mos.cms.futurecdn.net/CCRppuwU2of3okGkhAmeHT-1200-80.jpg">
 <title><h1>mundo-hardware</h1></title>
 
 <h2>tipos de hardware</h2>
