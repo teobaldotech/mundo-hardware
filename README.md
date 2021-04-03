@@ -22,3 +22,6 @@ exemplo:Disco Rígido e disquete, CD e DVD e BLU-RAY,SSDs.
 <h2>processador</h2>
 É um microchip capaz de endereçar, resolver e preparar dados.
 todo processador tem um sistema de controle de temperatura que permite o resfriamento do ambiente no computador.
+
+<h2>memória RAM</h2>
+É um armazenamento temporário de informações do sistema operacional, no momento de uso do computador.
