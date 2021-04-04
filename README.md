@@ -3,7 +3,7 @@
 <img src="https://cdn.mos.cms.futurecdn.net/CCRppuwU2of3okGkhAmeHT-1200-80.jpg">
 <title><h1>mundo-hardware</h1></title>
 
-<h2>tipos de hardware</h2>
+<h2><tipos de hardware</h2>
 
 <h2>dispositivo de entrada</h2> 
 sao aquleles que permitem a antrada de dados no computador.
@@ -27,3 +27,6 @@ todo processador tem um sistema de controle de temperatura que permite o resfria
 
 <h2>memória RAM</h2>
 É um armazenamento temporário de informações do sistema operacional, no momento de uso do computador.
+
+<h2>memória ROM</h2>
+É o local onde fica gravada as informações de forma permanente.E permite somente o acesso das informações. 
