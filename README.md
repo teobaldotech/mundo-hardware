@@ -30,3 +30,8 @@ todo processador tem um sistema de controle de temperatura que permite o resfria
 
 <h2>memória ROM</h2>
 É o local onde fica gravada as informações de forma permanente.E permite somente o acesso das informações. 
+
+<h2>placa de video</h2>
+A placa de vídeo é um componente importante na interação entre o usuário e o computador. Tem a função de mostrar as imagens no monitor do computador.
+<p>-placas Onboard: é uma placa integrada ao computador.<p/>
+<p>-placas Offboard: é uma placa em que usuários mantem sua própria configuração, definindo a quantidade de memória.</p>
