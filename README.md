@@ -33,8 +33,11 @@ todo processador tem um sistema de controle de temperatura que permite o resfria
 
 <h2>placa de video</h2>
 A placa de vídeo é um componente importante na interação entre o usuário e o computador. Tem a função de mostrar as imagens no monitor do computador.
-<h2>-placas Onboard: é uma placa integrada ao computador.<p/>
+<p>>-placas Onboard: é uma placa integrada ao computador.</p>
 <p>-placas Offboard: é uma placa em que usuários mantem sua própria configuração, definindo a quantidade de memória.</p>
 
 <h2>placa mae</h2>
 <p>é a parte do computador que reune e interliga todos os componentes para o seu funcionamento.</p>
+
+<h2>barramento</h2>
+<p>um conjunto de linhas de comunicação que permitem a interligação entre dispositivos, como a CPU, a memória e outros periféricos.</p>
