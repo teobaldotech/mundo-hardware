@@ -82,3 +82,33 @@ Transformam dados digitais em físicos ou vice-versa.
 🧰 Placas de Expansão
 Adicionam funcionalidades extras ao computador.
 - Exemplos: placa de som, placa de captura, placa controladora USB/SATA.
+
+
+🧠 Processadores com IA Embutida
+- CPUs e APUs como o AMD Ryzen AI MAX+ 395 e o Intel Core Ultra 9 agora vêm com NPUs (Unidades de Processamento Neural).
+- Isso permite tarefas de IA local como tradução em tempo real, reconhecimento facial e edição de imagens sem depender da nuvem.
+
+---
+
+🎮 GPUs de Última Geração
+- As novas NVIDIA RTX 50 e AMD Radeon RX 8000 trazem avanços em ray tracing, upscaling com IA e desempenho para jogos e criação de conteúdo.
+
+---
+
+🚀 Armazenamento PCIe 5.0
+- Os SSDs com interface PCIe 5.0 estão se popularizando, oferecendo velocidades absurdas para gamers, editores de vídeo e profissionais de dados.
+
+---
+
+🌱 Hardware Sustentável
+- Fabricantes estão adotando materiais reciclados, designs com baixo consumo energético e chips mais eficientes como os ARM da Qualcomm.
+
+---
+
+🧪 Computação Quântica Inicial
+- Ainda em fase experimental, mas empresas como IBM estão avançando em computação quântica para aplicações científicas e simulações complexas.
+
+---
+
+📡 Conectividade Total
+- Com o avanço do 5G e da Internet das Coisas (IoT), o hardware está sendo otimizado para velocidade, integração e resposta em tempo real.
