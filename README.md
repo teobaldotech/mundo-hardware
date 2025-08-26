@@ -41,3 +41,44 @@ Responsável por exibir imagens no monitor e melhorar a experiência visual do u
 
 🔌 Barramento
 Conjunto de linhas de comunicação que conectam a CPU, memória e periféricos.
+
+
+🌐 Dispositivos de Rede
+Permitem a comunicação entre computadores e redes locais ou externas.
+- Exemplos: roteador, modem, switch, hub, placa de rede (LAN/Wi-Fi).
+
+---
+
+🔒 Dispositivos de Segurança
+Protegem o sistema contra acessos não autorizados ou ameaças externas.
+- Exemplos: leitor biométrico, token USB, firewall físico, câmera de segurança.
+
+---
+
+🧊 Sistema de Resfriamento
+Mantém a temperatura dos componentes sob controle, evitando superaquecimento.
+- Exemplos: cooler, ventoinha, dissipador de calor, sistema de water cooler.
+
+---
+
+🔋 Fontes de Energia
+Fornecem energia elétrica para o funcionamento dos componentes.
+- Exemplos: fonte ATX, baterias (em notebooks), nobreak, estabilizador.
+
+---
+
+🧭 Sensores e Controladores
+Captam dados físicos ou ambientais e controlam funções específicas.
+- Exemplos: sensores de temperatura, giroscópio, acelerômetro, controlador de ventoinha.
+
+---
+
+🖨️ Dispositivos de Impressão e Digitalização
+Transformam dados digitais em físicos ou vice-versa.
+- Exemplos: impressora multifuncional, scanner, plotter.
+
+---
+
+🧰 Placas de Expansão
+Adicionam funcionalidades extras ao computador.
+- Exemplos: placa de som, placa de captura, placa controladora USB/SATA.
