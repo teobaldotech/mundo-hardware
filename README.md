@@ -112,3 +112,36 @@ Adicionam funcionalidades extras ao computador.
 
 📡 Conectividade Total
 - Com o avanço do 5G e da Internet das Coisas (IoT), o hardware está sendo otimizado para velocidade, integração e resposta em tempo real.
+
+
+♻️ Processadores e Chips Eficientes
+- ARM da Qualcomm: Consomem menos energia que chips tradicionais x86, ideais para notebooks e dispositivos móveis.
+- Intel Core Ultra 9: Inclui unidades de processamento neural (NPU) que otimizam tarefas de IA com menor consumo.
+
+---
+
+🔋 Fontes de Energia com Certificação 80 PLUS
+- Corsair RMx SHIFT e Seasonic PRIME TX: Alta eficiência energética, com certificações que garantem menor desperdício de energia.
+
+---
+
+💾 Armazenamento Sustentável
+- SSDs NVMe PCIe 5.0: Mais rápidos e consomem menos energia que HDs tradicionais.
+- Discos com materiais reciclados: Algumas marcas estão usando carcaças feitas com plástico reaproveitado.
+
+---
+
+🧊 Sistemas de Resfriamento Inteligentes
+- Coolers com controle térmico adaptativo: Ajustam a rotação conforme a demanda, reduzindo consumo.
+- Water coolers com fluido não tóxico: Menos impacto ambiental em caso de vazamento.
+
+---
+
+🧩 Placas-Mãe com Design Ecológico
+- Algumas fabricantes como ASUS e Gigabyte estão adotando PCBs com menor uso de metais pesados e embalagens biodegradáveis.
+
+---
+
+🌐 Dispositivos de Rede com Baixo Consumo
+- Roteadores com modo Eco: Reduzem o uso de energia em horários de baixa atividade.
+- Switches com gerenciamento inteligente: Otimizam o fluxo de dados e desligam portas inativas.
